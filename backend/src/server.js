@@ -1,4 +1,8 @@
-require('dotenv').config();
+try {
+  require('dotenv').config();
+} catch (e) {
+  // 如果本地没有安装 dotenv，就直接使用环境变量启动
+}
 const app = require('./app');
 const { connectDatabase } = require('./config/database');
 

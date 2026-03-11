@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "82E86493CB3A40189CF3E31A"
+               BlueprintIdentifier = "AD1B38B5AA6A4B1283648AEB"
                BuildableName = "FIREAdvisor.app"
                BlueprintName = "FIREAdvisor"
                ReferencedContainer = "container:FIREAdvisor.xcodeproj">
@@ -43,7 +43,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AC9A1AB628064FD5A4CBC457"
+            BlueprintIdentifier = "AD1B38B5AA6A4B1283648AEB"
             BuildableName = "FIREAdvisor.app"
             BlueprintName = "FIREAdvisor"
             ReferencedContainer = "container:FIREAdvisor.xcodeproj">
@@ -60,7 +60,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "85566DA9C2574501AA0E0F57"
+            BlueprintIdentifier = "AD1B38B5AA6A4B1283648AEB"
             BuildableName = "FIREAdvisor.app"
             BlueprintName = "FIREAdvisor"
             ReferencedContainer = "container:FIREAdvisor.xcodeproj">

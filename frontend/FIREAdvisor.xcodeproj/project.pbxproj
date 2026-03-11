@@ -192,7 +192,7 @@
 				en,
 				Base,
 			);
-			mainGroup = 8BBCD5DFDFFB498F93FBDD6F;
+			mainGroup = 19A9C269B5CF4E0A87CD6545 /* Root */;
 			productRefGroup = 3859C0DADDB445F6ACAAE5A8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -207,7 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				= /* Assets.xcassets in Resources */,
+				8B758978D148449A9601F38B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
